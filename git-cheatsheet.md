@@ -148,3 +148,57 @@ git clone <url>
 - [Git SCM](https://git-scm.com/)
 - [Git book](https://git-scm.com/book/en/v2)
 - [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
+
+
+## MY NOTES:
+
+Find hidden items: ls -a
+
+Adding things to git repository:
+1. Add
+2. Commit
+3. (Push). 
+
+1. Working directory || index || repo/commits
+	File starts here	||get add	
+	Untracked ======||> 
+                        2. ========get commit ||
+
+Git log to see all the commits
+
+Commit not just for a file
+Represents delta represents how file looked then and how it looks now
+
+Describes changes in files
+
+
+Create folder create git repository using git init
+
+Git 
+
+
+Create clone by linking git and GitHub = REMOTE
+Git log —graph shows branches
+
+Git switch -c more emojis: creates new branch and switches to it
+
+Git switch to switch branches
+
+Git push -u origin main
+Git push -u origin main
+
+Go to main branch for example
+Merging branches: git merge more-emojis
+
+Merge commit has two branches
+Best practice is to delete branch
+
+But locally 
+Git pull u-origin main
+
+Git pull
+To merge branches locally
+
+Delete branch locally branch -d more-emojis
+BUT ONLY IF IT HAS BEEN MERGED IN
+
